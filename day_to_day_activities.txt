@@ -1,0 +1,9 @@
+day 20th April:
+
+1. downloading the clinical trials from clinicaltrials.gov
+     ====== Altogether, there are 5,397 studies (no filter applied). it is downloaded
+     ======= 987 studies with "completed" status, it is downloaded.  used https://support.geekseller.com/knowledgebase/convert-txt-file-csv/ .
+     
+ 2. downloading the clinical trials from https://www.covid-trials.org/
+      ====== Altogether, there are 5,834 studies (no filter applied). it is downloaded
+     ======= 904 studies with "completed" status, it is downloaded. 
