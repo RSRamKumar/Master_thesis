@@ -7,3 +7,6 @@ day 20th April:
  2. downloading the clinical trials from https://www.covid-trials.org/
       ====== Altogether, there are 5,834 studies (no filter applied). it is downloaded
      ======= 904 studies with "completed" status, it is downloaded. 
+     
+day 21th April:
+started writing the thesis - wrote about the coronavirus introduction etc.,
