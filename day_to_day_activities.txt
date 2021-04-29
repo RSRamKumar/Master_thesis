@@ -28,4 +28,7 @@ day 26th April:
  day 28th April:
  read the BEL related info, COVID 19 ontology
  wrote those information in the thesis
+ 
+ day 29th April:
+ wrote those information in the thesis-COVID 19 ontology
 
