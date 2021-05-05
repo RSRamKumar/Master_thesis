@@ -41,3 +41,7 @@ day 26th April:
  
  day 4rd May:
      read the host genetics initative database https://www.covid19hg.org/publications/.
+     
+ 
+  day 5th May:
+        1. in the clinicaltrials.gov, I downloaded the records "completed"  1,046 
