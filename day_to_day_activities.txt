@@ -44,4 +44,5 @@ day 26th April:
      
  
   day 5th May:
-        1. in the clinicaltrials.gov, I downloaded the records "completed"  1,046 
+        1. in the clinicaltrials.gov, I downloaded the records "completed"-  1,046 
+        2. in the covid-trials.org, I downloaded the records "completed"-  1,098
